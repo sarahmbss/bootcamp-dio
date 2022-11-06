@@ -8,7 +8,7 @@ apt-get install unzip -y
 
 # Baixar o arquivo que deve ser colocar na pasta do apache
 cd /tmp
-wget
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
 cd linux-site-dio-main
 
